@@ -1,0 +1,16 @@
+PODS:
+  - DictionaryFiltered (1.0.0)
+
+DEPENDENCIES:
+  - DictionaryFiltered
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DictionaryFiltered
+
+SPEC CHECKSUMS:
+  DictionaryFiltered: 64edfc42c25c1e5f5665d9dee39207c6d6a01a18
+
+PODFILE CHECKSUM: c85b685e0bf7ecce3c77fe2dbead9ccdf51fcfff
+
+COCOAPODS: 1.5.0
